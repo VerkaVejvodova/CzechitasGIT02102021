@@ -6,3 +6,6 @@ zmena do Githubu Lorem Ipsum
 
 ## Third excercise
 some changes
+
+## Fourth excercise
+some changes2
